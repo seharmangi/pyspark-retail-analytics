@@ -6,4 +6,3 @@
 - **RFM** features (Recency / Frequency / Monetary)
 - **KMeans** customer clustering (MLlib) + cluster profiling
 - Tiny **7-day revenue forecast** (baseline: trend + day-of-week)
-- Clean shutdown; optional exports for BI (Parquet/CSV)
